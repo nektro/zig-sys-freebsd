@@ -1,0 +1,5 @@
+id: qfev2g50alvpu4qolh8n2k5lqgx46fy9bskn0nlxx1ao5c5n
+name: sys-freebsd
+main: freebsd.zig
+license: MIT
+description: OS bindings layer for FreeBSD
